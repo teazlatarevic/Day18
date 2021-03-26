@@ -31,4 +31,4 @@ for (let items of shopingList.entries()) {
 }
 
 // Only change code above this line
-//module.exports = { shopingList, arrKey, arrValue };
+module.exports = { shopingList, arrKey, arrValue };
